@@ -25,6 +25,7 @@ You will find two compositions where the converter works a bit differently.
 *Hex → RGBA Array*
 For those who prefer paste text values.
 Input a Hex color value (e.g., #F24C3D) into the text layer named hexValue. # symbol will be trimmed if included.
+
 *Fill → RGBA Array*
 For those who prefer update shape's properties.
 Input your Hex value into the rectangle’s Fill property.
