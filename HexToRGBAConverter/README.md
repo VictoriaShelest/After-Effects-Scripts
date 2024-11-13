@@ -10,6 +10,7 @@ Features:
 Files Included:
 - HexToRGBAConverter.jsx: The JavaScript script for After Effects.
 - HexToRGBAConverter.aep: An After Effects project file where you can input Hex values and preview the result.
+- After Effects project preview.
 
 **How to Use:**
 
