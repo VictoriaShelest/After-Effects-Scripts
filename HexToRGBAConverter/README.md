@@ -3,13 +3,13 @@
 This script helps After Effects users convert Hex color values into RGBA arrays directly within the application. 
 
 Features:
--> Hex to RGBA Conversion: Converts Hex color values to RGBA arrays with normalized RGB values.
--> Interactive Preview: Users can input a Hex value in a provided text layer in the provided AE file.
--> Copyable RGBA Array: The script displays the converted RGBA array in a prompt window for easy copying.
+- Hex to RGBA Conversion: Converts Hex color values to RGBA arrays with normalized RGB values.
+- Interactive Preview: You can input a Hex value in a text layer or fill property in the provided AE file.
+- Copyable RGBA Array: The script displays the converted RGBA array in a prompt window for easy copying.
 
 Files Included:
--> HexToRGBAConverter.jsx: The JavaScript script for After Effects.
--> HexToRGBAConverter.aep: An After Effects project file where you can input Hex values and preview the result.
+- HexToRGBAConverter.jsx: The JavaScript script for After Effects.
+- HexToRGBAConverter.aep: An After Effects project file where you can input Hex values and preview the result.
 
 **How to Use:**
 
