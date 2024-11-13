@@ -34,12 +34,10 @@ A prompt window will appear with the RGBA array in a copyable field.
 To run the script again to copy another value, press Ctrl+Alt+Shift+D.
 
 **3. Copy the RGBA Array**
-
 Copy the RGBA array from the prompt window.
 Use it in your After Effects expressions or properties.
 
-**Example:**
-
+Example:
 Input Hex: #F24C3D
 Output RGBA: [0.949, 0.298, 0.239, 1]
 
