@@ -21,6 +21,7 @@ Default After Effects Scripts folder:
 **2. Use the Script**
 Open the provided HexToRGBAConverter.aep file or import it into your working file in After Effects.
 You will find two compositions where the converter works a bit differently.
+
 *Hex → RGBA Array*
 For those who prefer paste text values.
 Input a Hex color value (e.g., #F24C3D) into the text layer named hexValue. # symbol will be trimmed if included.
