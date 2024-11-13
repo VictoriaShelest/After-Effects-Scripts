@@ -16,8 +16,8 @@ Files Included:
 **1. Install the Script**
 Download the HexToRGBAConverter.jsx file.
 Default After Effects Scripts folder:
-Windows: C:\Program Files\Adobe\Adobe After Effects <version>\Scripts\
-Mac: /Applications/Adobe After Effects <version>/Scripts/
+- Windows: C:\Program Files\Adobe\Adobe After Effects <version>\Scripts\
+- Mac: /Applications/Adobe After Effects <version>/Scripts/
 
 **2. Use the Script**
 Open the provided HexToRGBAConverter.aep file in After Effects.
