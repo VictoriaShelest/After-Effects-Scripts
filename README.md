@@ -52,4 +52,3 @@ If the Hex value is inputted with a # (e.g., #F24C3D), the script automatically 
 
 Contributing:
 If you would like to contribute or report issues, feel free to open an issue or submit a pull request.
-
