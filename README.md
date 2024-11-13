@@ -44,7 +44,7 @@ Input Hex: #F24C3D
 Output RGBA: [0.949, 0.298, 0.239, 1]
 
 Requirements:
-After Effects CC or later (the script was tested on AE CC 2020+).
+After Effects CC or later (the script was tested on AE 23.1.0).
 Basic understanding of expressions in After Effects.
 
 Notes:
