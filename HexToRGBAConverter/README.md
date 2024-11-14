@@ -15,19 +15,29 @@ Files Included:
 **How to Use:**
 
 **1. Download the HexToRGBAConverter.jsx file.**
+
 You can save it to the default After Effects Scripts folder if you wish:
 - Windows: C:\Program Files\Adobe\Adobe After Effects <version>\Scripts\
 - Mac: /Applications/Adobe After Effects <version>/Scripts/
 
 **2. Use the Script**
-- Open the provided HexToRGBAConverter.aep file or import it into your working file in After Effects.
-- Select the Shape Fill → RGBA Array composition.
-- Input your Hex value into the rectangle’s Fill property.
+
+2.1. Fastest way - just to grab an array.
+- Create a text layer and name it “hexValue”.
+- Paste your Hex color (with or without the # symbol) to this text layer.
 - Run the HexToRGBAConverter.jsx script from the File > Scripts > Run Script File menu.
 - A prompt window will appear with the RGBA array in a copyable field.
 - To run the script again to copy another value, press Ctrl+Alt+Shift+D.
+- 
+2.2. With an AE file as a visual interface. 
+- Open the provided HexToRGBAConverter.aep file or import it into your working file in After Effects.
+- Select the *Shape Fill → RGBA Array* composition. 
+- Input your Hex value into the rectangle’s Fill property. You will see the color preview, the Hex value and the array directly in AE.
+- Run the HexToRGBAConverter.jsx script from the File > Scripts > Run Script File menu.
+- A prompt window will appear with the RGBA array in a copyable field.
 
 **3. Copy the RGBA Array**
+
 Copy the RGBA array from the prompt window.
 Use it in your After Effects expressions or properties.
 
