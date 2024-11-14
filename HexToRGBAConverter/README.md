@@ -28,7 +28,7 @@ You can save it to the default After Effects Scripts folder if you wish:
 - Run the HexToRGBAConverter.jsx script from the File > Scripts > Run Script File menu.
 - A prompt window will appear with the RGBA array in a copyable field.
 - To run the script again to copy another value, press Ctrl+Alt+Shift+D.
-- 
+
 2.2. With an AE file as a visual interface. 
 - Open the provided HexToRGBAConverter.aep file or import it into your working file in After Effects.
 - Select the *Shape Fill → RGBA Array* composition. 
