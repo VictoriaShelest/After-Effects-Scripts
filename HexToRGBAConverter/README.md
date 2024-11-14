@@ -15,6 +15,7 @@ Files Included:
 **How to Use:**
 
 **1. Download the HexToRGBAConverter.jsx file.**
+
 You can save it to the default After Effects Scripts folder if you wish:
 - Windows: C:\Program Files\Adobe\Adobe After Effects <version>\Scripts\
 - Mac: /Applications/Adobe After Effects <version>/Scripts/
