@@ -31,6 +31,7 @@ You can save it to the default After Effects Scripts folder if you wish:
 Copy the RGBA array from the prompt window.
 Use it in your After Effects expressions or properties.
 
+
 Example:
 Input Hex: #B846EA
 Output RGBA: [0.722, 0.275, 0.918, 1]
