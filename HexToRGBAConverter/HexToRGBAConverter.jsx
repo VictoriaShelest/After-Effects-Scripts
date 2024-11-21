@@ -1,3 +1,5 @@
+//Created by Victoria Shelest, 2024
+
 // Function to convert hex to RGBA array
 function hexToRGBA(hexValue) {
     // Remove the '#' if it exists
