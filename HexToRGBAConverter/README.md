@@ -1,5 +1,8 @@
+Created by Victoria Shelest, 2024
+
 **Hex to RGBA Converter Script for After Effects**
 
+Overview:
 This script helps After Effects users convert Hex color values into RGBA arrays directly within the application. 
 
 Features:
