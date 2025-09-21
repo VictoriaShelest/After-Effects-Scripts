@@ -40,3 +40,4 @@ if (comp instanceof CompItem) {  // Check if the active item is a composition
 } else {
     alert("No active composition selected.");
 }
+
