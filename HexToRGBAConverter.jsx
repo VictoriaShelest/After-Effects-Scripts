@@ -1,4 +1,6 @@
-//Created by Victoria Shelest, 2024
+// HexToRGBA Converter.
+// Developed by Victoria Shelest.
+// 2024.
 
 // Function to convert hex to RGBA array
 function hexToRGBA(hexValue) {
@@ -40,4 +42,5 @@ if (comp instanceof CompItem) {  // Check if the active item is a composition
 } else {
     alert("No active composition selected.");
 }
+
 
